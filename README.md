@@ -16,8 +16,8 @@
 
 ###
 <p align="left">
-Hi, I'm Sakib 👋  
-<br>A <strong>Junior Frontend Developer</strong> from Mymensingh, Bangladesh.  
+Hi 👋  
+<br>I'm A <strong> Junior Frontend Developer</strong> from Mymensingh, Bangladesh.  
 <br><br>
 🌱 I’m currently learning <strong>Next.js</strong>  
 <br>💬 Ask me about <strong>HTML</strong>, <strong>CSS</strong>, <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>Tailwind CSS</strong>  
