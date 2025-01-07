@@ -25,16 +25,16 @@ Hi, I'm Sakib 👋
 <br><br>
 📌 <strong>What I’m Working On</strong>  
 <br>- Building responsive and interactive user interfaces.  
-<br>- Exploring full-stack development with the MERN stack.  
+<br>- Enhance my skills in <strong>Next.js</strong>.    
 <br><br>
 🎯 <strong>My Goals for 2025</strong> 
-<br>- Enhance my skills in <strong>Next.js</strong>.  
+<br>- Exploring <strong>full-stack development</strong> with the <strong>MERN stack</strong>. 
 <br><br>
 ⚡ <strong>Fun Facts</strong>  
 <br>1. Did you know? The first website in the world, created by Tim Berners-Lee in 1991, is still online! 🌐  
 <br>2. The term "cookies" in web development doesn't come from food but from the term "magic cookie," a packet of data exchanged between programs. 🍪  
 <br><br>
-👨‍💻 Always curious, always learning! 🌟  
+👨‍💻 <strong>Always curious, always learning!</strong> 🌟  
 </p>
 
 
