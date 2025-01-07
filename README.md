@@ -15,8 +15,28 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left">
+Hi, I'm Sakib 👋  
+<br>A <strong>Junior Frontend Developer</strong> from Mymensingh, Bangladesh.  
+<br><br>
+🌱 I’m currently learning <strong>Next.js</strong>  
+<br>💬 Ask me about <strong>HTML</strong>, <strong>CSS</strong>, <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>Tailwind CSS</strong>  
+<br>📫 How to reach me: <a href="mailto:syedsakibulhaque@gmail.com"><strong>syedsakibulhaque@gmail.com</strong></a>  
+<br><br>
+📌 <strong>What I’m Working On</strong>  
+<br>- Building responsive and interactive user interfaces.  
+<br>- Exploring full-stack development with the MERN stack.  
+<br><br>
+🎯 <strong>My Goals for 2025</strong> 
+<br>- Enhance my skills in <strong>Next.js</strong>.  
+<br><br>
+⚡ <strong>Fun Facts</strong>  
+<br>1. Did you know? The first website in the world, created by Tim Berners-Lee in 1991, is still online! 🌐  
+<br>2. The term "cookies" in web development doesn't come from food but from the term "magic cookie," a packet of data exchanged between programs. 🍪  
+<br><br>
+👨‍💻 Always curious, always learning! 🌟  
+</p>
 
-<p align="left">Hi, I'm Sakib 👋  <br>A **Junior Frontend Developer** from Mymensingh, Bangladesh.  <br><br>🌱 I’m currently learning **Next.js**  <br>💬 Ask me about **HTML**, **CSS**, **MongoDB**, **Express.js**, **Node.js**, and **Tailwind CSS**  <br>📫 How to reach me: [syedsakibulhaque2@gmail.com]<br><br>📌 **What I’m Working On**  <br>- Building responsive and interactive user interfaces.  <br>- Exploring full-stack development with the MERN stack.  <br>- Mastering best practices in modern web development.  <br><br>🎯 **My Goals for 2025**  <br>- Contribute to open-source projects.  <br>- Enhance my skills in NEXT js.  <br><br>⚡ **Fun Facts**  <br>1. Did you know? The first website in the world, created by Tim Berners-Lee in 1991, is still online! 🌐  <br>2. The term "cookies" in web development doesn't come from food but from the term "magic cookie," a packet of data exchanged between programs. 🍪  <br>  <br><br>👨‍💻 Always curious, always learning! 🌟</p>
 
 ###
 
