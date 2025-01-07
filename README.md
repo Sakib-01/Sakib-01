@@ -22,6 +22,7 @@ Hi 👋
 🌱 I’m currently learning <strong>Next.js</strong>  
 <br>💬 Ask me about <strong>HTML</strong>, <strong>CSS</strong>, <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>Tailwind CSS</strong>  
 <br>📫 How to reach me: <a href="mailto:syedsakibulhaque@gmail.com"><strong>syedsakibulhaque@gmail.com</strong></a>  
+<br>👨‍💻 Check my work here: <a href="(https://app.netlify.com/teams/sakib-01/sites)"><strong>Netlify</strong></a>  
 <br><br>
 📌 <strong>What I’m Working On</strong>  
 <br>- Building responsive and interactive user interfaces.  
