@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Sakib-01/Sakib-01/refs/heads/main/web%20dev%20banner.jpg"  />
+  <img height="200" src="https://ibb.co.com/GQwQnQMc"  />
 </div>
 
 ###
