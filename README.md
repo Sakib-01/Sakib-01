@@ -1,5 +1,4 @@
 <div align="center">
-<!--   <img height="200" src="https://i.ibb.co.com/d494j4pG/Blue-And-Green-Professional-Technology-Linked-In-Banner.png"  /> -->
     <img height="200" src="https://i.ibb.co.com/CsQdVbcc/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 </div>
 
