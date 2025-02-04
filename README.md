@@ -24,7 +24,7 @@
 ###
 <p align="left">
 Hi 👋  
-<br>I'm A <strong> Junior Frontend Developer</strong> from Mymensingh, Bangladesh.  
+<br>I'm A <strong> Junior Frontend Developer</strong> from Mymensingh, Bangladesh, skilled in <strong> React, Tailwind CSS</strong> , and modern web technologies. I'm passionate about building responsive and dynamic web applications, But More Importantly I'm passionate about <strong> Coding</strong>
 <br><br>
 🌱 I’m currently learning <strong>Next.js</strong>  
 <br>💬 Ask me about <strong>HTML</strong>, <strong>CSS</strong>, <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>Tailwind CSS</strong>  
