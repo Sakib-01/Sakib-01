@@ -103,10 +103,12 @@ Hi 👋
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sakib-01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sakib-01" alt="GitHub Streak" /></a>
 </div>
 
+<div>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sakib-01" alt="GitHub Streak" /></a>
 
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/Sakib-01/Sakib-01/output/snake.svg" alt="Snake animation" />
